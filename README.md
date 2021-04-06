@@ -1,4 +1,5 @@
 - 🌱 I’m currently learning pyrogram
 - 💡 I'm programmer of langlib
 - 🎯 My goal is BitBot Society
+- 🌐 My Resume: http://bahman-backup.ir/cv
 - ❤️ I love Programming!
