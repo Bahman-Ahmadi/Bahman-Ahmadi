@@ -10,7 +10,7 @@ Hi, I am Bahman Ahmadi ,and I was born in 2007, I love computers and technology,
 
 ## 🔧 My Favorite Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VsCode&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VsCode-idea&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=informational)
 
