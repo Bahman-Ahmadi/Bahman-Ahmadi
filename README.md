@@ -4,7 +4,7 @@
 Hi, I am Bahman Ahmadi ,and I was born in 2007.jan, I love web development, web scrapping and etc. I started programming in 2020.july, I'm busy with python on flask and anything in web development world.
 
 <a href="https://t.me/Bprogrammer">
-	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" /> Contact Me
+	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
 </a>
 <br>
 
